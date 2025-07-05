@@ -82,22 +82,22 @@
     {
         "path": "/authors/meshya/index.html",
         "type": "file",
-        "md5": "5eb780ad262f3ea9644d7fcc4f2b4354"
+        "md5": "844f8fddfab048de35dbe791b4366a30"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e9e4128654a2b4c1d45a8866e59963d0"
+        "md5": "2762c0c3562131ce4ca5b10606a8340e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8f66c394bd88596327c464c8df188054"
+        "md5": "b27b2a9a0ece66caa203987f4f5fcf3b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "76a561970cf3ff6696e0d1cb7347f497"
+        "md5": "6d6c4963333477ecf0c064ffe61c9d58"
     },
     {
         "path": "robots.txt",
@@ -107,7 +107,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0dd1705bbc76f697e8f4ccbc5c6bf6bb"
+        "md5": "afd047e1911a6002792982f38c35864e"
     },
     {
         "path": "sitemap.xsl",
@@ -127,6 +127,6 @@
     {
         "path": "tjrbh-wqaay-z-ykh-dkhryz-drdnkh-chtwr-srwyshmwn-rw-rwy-srwr-yrn-bl-awrdym.html",
         "type": "file",
-        "md5": "57d69fdce59ebe19045b382e541be49d"
+        "md5": "2fe39cafa247f0feb52dce6c8cdcba6d"
     }
 ]
