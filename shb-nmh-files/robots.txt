@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meshya.com/sitemap.xml
